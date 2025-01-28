@@ -1,5 +1,13 @@
 # Hospital Management Database System
 
+# Database ER Diagram and Schema
+
+## ER Diagram
+![ER Diagram](Screenshot%202025-01-28%20at%2022.00.59.png)
+
+## Relational Schema
+![Relational Schema](Screenshot%202025-01-28%20at%2022.01.56.png)
+
 ## Table Creation and Indexes
 
 In the Hospital Management Database System, tables are designed to store and organize data efficiently while maintaining referential integrity and consistency. The schema has been carefully developed to meet the needs of various hospital operations, such as managing patients, appointments, staff, and medical records. Each table corresponds to an entity in the system, with attributes defined to capture relevant data. Relationships between entities are maintained through foreign key constraints, ensuring that data remains interconnected and logically structured.
