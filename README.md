@@ -3,10 +3,10 @@
 # Database ER Diagram and Schema
 
 ## ER Diagram
-![ER Diagram](Screenshot%202025-01-28%20at%2022.00.59.png)
+![ER Diagram](ER.png)
 
 ## Relational Schema
-![Relational Schema](Screenshot%202025-01-28%20at%2022.01.56.png)
+![Relational Schema](Relational.png)
 
 ## Table Creation and Indexes
 
